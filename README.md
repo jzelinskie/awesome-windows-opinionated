@@ -30,7 +30,7 @@ I only included these two because they're clients for open chat protocols. If yo
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) - Linux in Windows. Install your distro of choice and here's the rest of your dev tools. Why bother with native Windows dev tools?
 - [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) - Official Microsoft Terminal Emulator. I would recommend ConEmu, but I'm going to lean first-party when that solution is good enough.
 
-I'm not a Windows developer. As a result, when I do target Windows, I don't use their toolchains. It's just not how you make portable software, so I cannot recommend them in good faith. Microsoft themselves have seemingly admitted this by developing 
+I'm not a Windows developer. As a result, when I do target Windows, I don't use their toolchains. It's just not how you make portable software, so I cannot recommend them in good faith. Microsoft themselves have seemingly admitted this by their recent efforts with WSL and supporting crossplatform development in general.
 
 ### Documents
 
